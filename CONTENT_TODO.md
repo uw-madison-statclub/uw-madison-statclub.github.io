@@ -9,10 +9,6 @@ and send this file back — I'll move everything into the site.
 Current: Add a short bio: year, major, and what you're excited about this semester.
 Replace with:
 
-### Evan Bletcher — Board Member
-Current: Add a short bio: year, major, and what you're excited about this semester.
-Replace with:
-
 ### Rishit Malpani — Board Member
 Current: Add a short bio: year, major, and what you're excited about this semester.
 Replace with:

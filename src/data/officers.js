@@ -18,7 +18,7 @@ export const officers = [
     role: "Board Member",
     photo: "evan.jpeg",
     email: "eblecher@wisc.edu",
-    bio: "Add a short bio: year, major, and what you're excited about this semester.",
+    bio: "Hi, I'm Evan, a junior at UW-Madison studying Data Science and Philosophy. Academically, I'm very interested in the combination of these fields: consciousness and the nature of mind, the ethics of AI governance, and how data shapes how we understand systems and reality. Outside of classwork, I play drums, climb, and sail.",
   },
   {
     name: "Rishit Malpani",
